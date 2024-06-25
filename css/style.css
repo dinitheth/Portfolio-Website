@@ -1154,13 +1154,13 @@ footer .credits a {
 }
 
 .button:hover {
-  background-color: #0062d3;
+  background-color: #000000;
   color: #fff;
   transition: all 500ms ease;
 }
 
 .button-a {
-  background-color: #0078ff;
+  background-color: #28282B;
   color: #fff;
   border-color: #cde1f8;
 }
